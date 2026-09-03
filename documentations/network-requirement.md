@@ -118,7 +118,6 @@ HQ menggunakan tiga layer utama:
 **Distribution Layer**
 
 * 2 Distribution Switch untuk jaringan user HQ
-* 2 Distribution Switch untuk Server Cluster
 
 **Access Layer**
 
