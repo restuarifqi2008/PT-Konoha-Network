@@ -8,14 +8,14 @@ Melakukan konfigurasi dasar switch pada jaringan PT Konoha serta menerapkan VLAN
 
 Konfigurasi Day 4 meliputi:
 
--[x] Basic switch configuration
--[x] Pembuatan VLAN
--[x] Penamaan VLAN
--[x] Konfigurasi access port
--[x] Konfigurasi trunk
--[x] Penerapan Native VLAN 999
--[x] Penentuan VLAN yang diizinkan pada trunk
--[x] Verifikasi konfigurasi
+| Basic switch configuration | ✅ |
+| Pembuatan VLAN | ✅ |
+| Penamaan VLAN | ✅ |
+| Konfigurasi access port | ✅ |
+| Konfigurasi trunk | ✅ |
+| Penerapan Native VLAN 999 | ✅ |
+| Penentuan VLAN yang diizinkan pada trunk | ✅ |
+| Verifikasi konfigurasi | ✅ |
 
 ## 3. VLAN yang Digunakan
 
