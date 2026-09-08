@@ -48,3 +48,25 @@ Project terdiri dari tiga lokasi:
              │  BR1    │           │  BR2    │
              └─────────┘           └─────────┘
     
+## Progress
+
+- [x] Day 1 — Network Requirements
+- [x] Day 2 — Physical Topology
+- [x] Day 3 — VLAN & IP Addressing Plan
+- [x] Day 4 — Basic Switch Configuration
+- [x] Day 5 — EtherChannel (LACP)
+- [x] Day 6 — STP
+- [x] Day 7 — Inter-VLAN Routing
+- [ ] Day 8 — WAN & OSPF
+- [ ] Day 9 — DHCP
+- [ ] Day 10 — DNS & Web Server
+- [ ] Day 11 — File, Mail & Monitoring
+- [ ] Day 12 — Network Management
+- [ ] Day 13 — SSH & Network Hardening
+- [ ] Day 14 — ACL
+- [ ] Day 15 — Port Security
+- [ ] Day 16 — Wireless & Guest Network
+- [ ] Day 17 — Connectivity Testing
+- [ ] Day 18 — Security Testing
+- [ ] Day 19 — Troubleshooting
+- [ ] Day 20 — Finalization
