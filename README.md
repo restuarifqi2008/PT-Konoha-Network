@@ -57,16 +57,19 @@ Project terdiri dari tiga lokasi:
 - [x] Day 5 — EtherChannel (LACP)
 - [x] Day 6 — STP
 - [x] Day 7 — Inter-VLAN Routing
-- [ ] Day 8 — WAN & OSPF
-- [ ] Day 9 — DHCP
+- [x] Day 8 — WAN & OSPF
+- [ ] Day 9 — DHCP & DHCP Relay
 - [ ] Day 10 — DNS & Web Server
-- [ ] Day 11 — File, Mail & Monitoring
-- [ ] Day 12 — Network Management
-- [ ] Day 13 — SSH & Network Hardening
-- [ ] Day 14 — ACL
-- [ ] Day 15 — Port Security
-- [ ] Day 16 — Wireless & Guest Network
-- [ ] Day 17 — Connectivity Testing
-- [ ] Day 18 — Security Testing
-- [ ] Day 19 — Troubleshooting
-- [ ] Day 20 — Finalization
+- [ ] Day 11 — File, Mail & Monitoring Server
+- [ ] Day 12 — SSH & Network Management
+- [ ] Day 13 — ACL & Network Segmentation
+- [ ] Day 14 — Wireless & Guest Network
+- [ ] Day 15 — Full Connectivity & Security Testing
+
+### Advanced Enterprise Enhancement
+
+- [ ] Day 16 — HSRP Gateway Redundancy
+- [ ] Day 17 — Firewall & DMZ Security
+- [ ] Day 18 — Network Monitoring, Syslog & SNMP
+- [ ] Day 19 — QoS & Traffic Prioritization
+- [ ] Day 20 — High Availability & Final Enterprise Optimization
