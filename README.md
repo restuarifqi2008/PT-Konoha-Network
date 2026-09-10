@@ -58,7 +58,7 @@ Project terdiri dari tiga lokasi:
 - [x] Day 6 — STP
 - [x] Day 7 — Inter-VLAN Routing
 - [x] Day 8 — WAN & OSPF
-- [ ] Day 9 — DHCP & DHCP Relay
+- [x] Day 9 — DHCP & DHCP Relay
 - [ ] Day 10 — DNS & Web Server
 - [ ] Day 11 — File, Mail & Monitoring Server
 - [ ] Day 12 — SSH & Network Management
