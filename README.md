@@ -12,19 +12,12 @@ Project ini dibuat menggunakan **Cisco Packet Tracer** dengan menerapkan konsep:
 - Hierarchical Network Design
 - Multilayer Switching
 - Inter-VLAN Routing
-- EtherChannel
+- EtherChannel (LACP)
 - Spanning Tree Protocol (STP)
 - OSPF
-- DHCP
+- DHCP & DHCP Relay
 - DNS
 - Web Server
-- File Server
-- Mail Server
-- Monitoring
-- SSH
-- ACL
-- Port Security
-- Guest Wireless Network
 - Network Management
 
 Project dikembangkan secara bertahap dengan pendekatan implementasi dan troubleshooting seperti pada lingkungan jaringan enterprise.
@@ -59,17 +52,17 @@ Project terdiri dari tiga lokasi:
 - [x] Day 7 — Inter-VLAN Routing
 - [x] Day 8 — WAN & OSPF
 - [x] Day 9 — DHCP & DHCP Relay
-- [ ] Day 10 — DNS & Web Server
+- [x] Day 10 — DNS & Web Server
 - [ ] Day 11 — File, Mail & Monitoring Server
-- [ ] Day 12 — SSH & Network Management
+- [ ] Day 12 — SSH, Network Management & Hardening
 - [ ] Day 13 — ACL & Network Segmentation
 - [ ] Day 14 — Wireless & Guest Network
 - [ ] Day 15 — Full Connectivity & Security Testing
 
 ### Advanced Enterprise Enhancement
 
-- [ ] Day 16 — HSRP Gateway Redundancy
-- [ ] Day 17 — Firewall & DMZ Security
-- [ ] Day 18 — Network Monitoring, Syslog & SNMP
-- [ ] Day 19 — QoS & Traffic Prioritization
+- [ ] Day 16 — HSRP + IP SLA/Tracking
+- [ ] Day 17 — Firewall + DMZ + NAT
+- [ ] Day 18 — Monitoring + Syslog + SNMP + NTP
+- [ ] Day 19 — QoS + Switch Security
 - [ ] Day 20 — High Availability & Final Enterprise Optimization
