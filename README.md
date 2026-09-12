@@ -18,7 +18,9 @@ Project ini dibuat menggunakan **Cisco Packet Tracer** dengan menerapkan konsep:
 - DHCP & DHCP Relay
 - DNS
 - Web Server
-- Network Management
+- file server
+- mail server
+- Network Monitoring/monitoring server
 
 Project dikembangkan secara bertahap dengan pendekatan implementasi dan troubleshooting seperti pada lingkungan jaringan enterprise.
 
@@ -53,7 +55,7 @@ Project terdiri dari tiga lokasi:
 - [x] Day 8 — WAN & OSPF
 - [x] Day 9 — DHCP & DHCP Relay
 - [x] Day 10 — DNS & Web Server
-- [ ] Day 11 — File, Mail & Monitoring Server
+- [x] Day 11 — File, Mail & Monitoring Server
 - [ ] Day 12 — SSH, Network Management & Hardening
 - [ ] Day 13 — ACL & Network Segmentation
 - [ ] Day 14 — Wireless & Guest Network
