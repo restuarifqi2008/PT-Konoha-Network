@@ -21,6 +21,7 @@ Project ini dibuat menggunakan **Cisco Packet Tracer** dengan menerapkan konsep:
 - file server
 - mail server
 - Network Monitoring/monitoring server
+- SSH $ Network Management
 
 Project dikembangkan secara bertahap dengan pendekatan implementasi dan troubleshooting seperti pada lingkungan jaringan enterprise.
 
@@ -56,7 +57,7 @@ Project terdiri dari tiga lokasi:
 - [x] Day 9 — DHCP & DHCP Relay
 - [x] Day 10 — DNS & Web Server
 - [x] Day 11 — File, Mail & Monitoring Server
-- [ ] Day 12 — SSH, Network Management & Hardening
+- [x] Day 12 — SSH, Network Management & Hardening
 - [ ] Day 13 — ACL & Network Segmentation
 - [ ] Day 14 — Wireless & Guest Network
 - [ ] Day 15 — Full Connectivity & Security Testing
