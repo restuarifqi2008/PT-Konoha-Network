@@ -22,6 +22,8 @@ Project ini dibuat menggunakan **Cisco Packet Tracer** dengan menerapkan konsep:
 - mail server
 - Network Monitoring/monitoring server
 - SSH & Network Management
+- ACL & Network Segmentation
+- wireless & guest network
 
 Project dikembangkan secara bertahap dengan pendekatan implementasi dan troubleshooting seperti pada lingkungan jaringan enterprise.
 
@@ -58,14 +60,14 @@ Project terdiri dari tiga lokasi:
 - [x] Day 10 — DNS & Web Server
 - [x] Day 11 — File, Mail & Monitoring Server
 - [x] Day 12 — SSH, Network Management & Hardening
-- [ ] Day 13 — ACL & Network Segmentation
-- [ ] Day 14 — Wireless & Guest Network
-- [ ] Day 15 — Full Connectivity & Security Testing
+- [x] Day 13 — ACL, Network Segmentation, Wireless & Guest Network
+- [ ] Day 14 — Full Connectivity & Security Testing
 
 ### Advanced Enterprise Enhancement
 
-- [ ] Day 16 — HSRP + IP SLA/Tracking
-- [ ] Day 17 — Firewall + DMZ + NAT
-- [ ] Day 18 — Monitoring + Syslog + SNMP + NTP
-- [ ] Day 19 — QoS + Switch Security
-- [ ] Day 20 — High Availability & Final Enterprise Optimization
+- [ ] Day 15 — HSRP + IP SLA/Tracking
+- [ ] Day 16 — Firewall + DMZ + NAT
+- [ ] Day 17 — Monitoring + Syslog + SNMP + NTP
+- [ ] Day 18 — QoS + Switch Security
+- [ ] Day 19 — High Availability 
+- [ ] Day 20 — Final Enterprise Optimization - documentation
