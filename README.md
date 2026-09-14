@@ -21,7 +21,7 @@ Project ini dibuat menggunakan **Cisco Packet Tracer** dengan menerapkan konsep:
 - file server
 - mail server
 - Network Monitoring/monitoring server
-- SSH $ Network Management
+- SSH & Network Management
 
 Project dikembangkan secara bertahap dengan pendekatan implementasi dan troubleshooting seperti pada lingkungan jaringan enterprise.
 
