@@ -61,7 +61,7 @@ Project terdiri dari tiga lokasi:
 - [x] Day 11 — File, Mail & Monitoring Server
 - [x] Day 12 — SSH, Network Management & Hardening
 - [x] Day 13 — ACL, Network Segmentation, Wireless & Guest Network
-- [ ] Day 14 — Full Connectivity & Security Testing
+- [x] Day 14 — Full Connectivity & Security Testing
 
 ### Advanced Enterprise Enhancement
 
