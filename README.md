@@ -24,6 +24,7 @@ Project ini dibuat menggunakan **Cisco Packet Tracer** dengan menerapkan konsep:
 - SSH & Network Management
 - ACL & Network Segmentation
 - wireless & guest network
+- HSRP gateway redundancy & Failover
 
 Project dikembangkan secara bertahap dengan pendekatan implementasi dan troubleshooting seperti pada lingkungan jaringan enterprise.
 
@@ -65,7 +66,7 @@ Project terdiri dari tiga lokasi:
 
 ### Advanced Enterprise Enhancement
 
-- [ ] Day 15 — HSRP + IP SLA/Tracking
+- [x] Day 15 — HSRP gateway redundancy & failover
 - [ ] Day 16 — Firewall + DMZ + NAT
 - [ ] Day 17 — Monitoring + Syslog + SNMP + NTP
 - [ ] Day 18 — QoS + Switch Security
